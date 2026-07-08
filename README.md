@@ -33,16 +33,16 @@
 
 | 层级       | 技术                            |
 | ---------- | ------------------------------- |
-| **后端**   | Python, FastAPI                 |
+| **后端**   | Python, FastAPI, sqlaichemy              |
 | **前端**   | HTML5, CSS3, JavaScript  |
 | **AI 模型**| glm/ds/claude等主流模型 |
-| **存储**   | json |
+| **存储**   | json , mysql|
 | **语音**   | Web Speech API |
 
 ---
 
 ##📌 当前阶段
-项目正处于 Demo 阶段，核心聊天链路已打通，后续将聚焦于数字人形象落地与动作生成。欢迎 Star、Fork 或提出建议！
+项目正处于 demo 2.0 阶段，核心聊天链路已打通，后续将聚焦于数字人形象落地与动作生成。欢迎 Star、Fork 或提出建议！
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/Neike2024/AI_TOKER.git
+git clone https://github.com/Neike2024/AI-Chat-Assistant.git
 cd AI_TOKER
 
 2,需要配置.env环境配置文件，写入模型名称，密钥，api_url
